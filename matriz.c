@@ -21,7 +21,7 @@ int main (void)
     {
         for (int j = 0; j < 4; j++)
         {
-            printf("%d", matriz[i][j]);
+            printf("%d\t", matriz[i][j]);
         }
         printf("\n");
         
